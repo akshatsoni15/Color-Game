@@ -1,0 +1,72 @@
+body
+{
+	background-color: #232323;
+}
+.square{
+	width: 30%;
+	background-color: purple;
+	padding-bottom: 30%;
+	float: left;
+	margin: 1.66%;
+	border-radius: 15%;
+	transition: background 0.6s;
+}
+#contain
+{
+	width: 30%;
+	margin: 0 auto;
+	margin-top: 3%;
+}
+button{
+	background: none;
+	border:none;
+	transition: all 0.3s;
+	font-family: 'Josefin Sans', sans-serif;
+	height: 100%;
+}
+button:hover{
+	color: white;
+	background-color: rgb(73, 94, 94);
+
+}
+
+h1
+{
+	color: white;
+	font-family: 'Dosis', sans-serif;
+}
+#top
+{
+	text-align: center;
+	padding-top: 3%;
+	padding-bottom: 3%;
+	background-color: rgb(73, 94, 94);
+	transition: background 0.6s;
+}
+.row
+{
+	background-color: white;
+	color: blue;
+
+}
+.container{
+	width: 100%;
+}
+.col-lg-6{
+	text-align: center;
+}
+#result{
+	color: black;
+	font-family: 'Josefin Sans', sans-serif;
+	transition: all 0.6s;
+}
+p
+{
+	color: black;
+	text-align: center;
+}
+
+.row1
+{
+	background-color: rgb(250, 177, 177);
+}
